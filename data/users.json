@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Arshad Khan",
+    "email": "arshad.khan@example.com",
+    "role": "student",
+    "phone": "9876543210",
+    "membershipDate": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "email": "rahul.sharma@example.com",
+    "role": "student",
+    "phone": "9123456780",
+    "membershipDate": "2024-02-10"
+  },
+  {
+    "id": 3,
+    "name": "Ayesha Siddiqui",
+    "email": "ayesha.siddiqui@example.com",
+    "role": "student",
+    "phone": "9988776655",
+    "membershipDate": "2024-03-05"
+  }
+]
